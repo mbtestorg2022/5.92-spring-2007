@@ -32,21 +32,138 @@ Grading
 
 Grades for the subject will be based on a total of 900 points as follows:
 
-| ASSIGNMENTS | POINTS |
-| --- | --- |
-| **Individual assignments** | **400 points total** |
-| 8 Progress reports (15 points each) | 120 points |
-| 10 Minute oral project briefing | 70 points |
-| Participation (group 40 points, class 35 points) | 75 points |
-| 3 Reflection papers (20 points each) | 60 points |
-| Reading highlights | 50 points |
-| Thermodynamics Practice Problems | 15 points |
-| Personal Energy Calculator Homework | 10 points |
-| **Team assignments** | **500 points total** |
-| Design notebook | 150 points |
-| Project proposal and management plan | 100 points |
-| Final report and oral presentation | 250 points |
-| **Total** | **900 points** 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ASSIGNMENTS
+{{< thclose >}}
+{{< thopen >}}
+POINTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Individual assignments**
+{{< tdclose >}}
+{{< tdopen >}}
+**400 points total**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8 Progress reports (15 points each)
+{{< tdclose >}}
+{{< tdopen >}}
+120 points
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10 Minute oral project briefing
+{{< tdclose >}}
+{{< tdopen >}}
+70 points
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Participation (group 40 points, class 35 points)
+{{< tdclose >}}
+{{< tdopen >}}
+75 points
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3 Reflection papers (20 points each)
+{{< tdclose >}}
+{{< tdopen >}}
+60 points
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Reading highlights
+{{< tdclose >}}
+{{< tdopen >}}
+50 points
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Thermodynamics Practice Problems
+{{< tdclose >}}
+{{< tdopen >}}
+15 points
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Personal Energy Calculator Homework
+{{< tdclose >}}
+{{< tdopen >}}
+10 points
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Team assignments**
+{{< tdclose >}}
+{{< tdopen >}}
+**500 points total**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Design notebook
+{{< tdclose >}}
+{{< tdopen >}}
+150 points
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Project proposal and management plan
+{{< tdclose >}}
+{{< tdopen >}}
+100 points
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final report and oral presentation
+{{< tdclose >}}
+{{< tdopen >}}
+250 points
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Total**
+{{< tdclose >}}
+{{< tdopen >}}
+**900 points**
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
   
 
@@ -62,44 +179,678 @@ The course is organized into the following four units:
 
 Project work (Unit 3) was completed throughout the term.
 
-| WEEK # | SES # | UNIT | TOPICS | KEY DATES |
-| --- | --- | --- | --- | --- |
-| 1 | 1 | 1.1 | Introductions/energy basics |  |
-| 2 | 1.2 | Energy basics (cont.) |  |
-| 2 | 3 | 1.3 | Energy basics (cont.) | Personal energy calculator due |
-| 4 | 1.4 | Energy basics (cont.) |  |
-| 5 | 3.1 | Project work | Draft of team code of conduct due |
-| 3 | 6 | 1.5 | Climate | Progress report #1 due |
-| 7 | 1.6 | Energy economics |  |
-| 8 | 3.2 | Project work |  {{< br >}}{{< br >}} Revised team code of conduct due {{< br >}}{{< br >}} Rough outline of team project proposal and management plan due {{< br >}}{{< br >}} Thermodynamics practice problems due {{< br >}}{{< br >}}  |
-| 4 | 9 | 1.7 | Project work | Progress report #2 due |
-| 10 | 2.1 | Alternative/renewable energy |  |
-| 11 | 2.2 | Building energy |  |
-| 5 | 12 | 2.3 | Mobility |  {{< br >}}{{< br >}} Progress report #3 due {{< br >}}{{< br >}} Draft of team project proposal and management plan due {{< br >}}{{< br >}}  |
-| 13 | 2.4 | Energy conversion |  |
-| 14 | 2.5 | Energy storage/distribution | Reflection paper #1 due |
-| 6 | 15 | 2.6 | A systems perspective |  {{< br >}}{{< br >}} Progress report #4 due {{< br >}}{{< br >}} Final team project proposal and management plan due {{< br >}}{{< br >}}  |
-| 16 | 4.1 | Practicum on public speaking | Informal TA check-in on design notebooks |
-| 17 | 2.7 | Local energy systems - MIT |  |
-| 7 | 18 | 2.8 | Local energy systems - Cambridge | Progress report #5 due |
-| 19 | 3.3 | Project work | Informal TA check-in on design notebooks |
-| 20 | 3.4 | Project work |  |
-| 8 | 21 | 3.5 | Project work | Progress report #6 due |
-| 22 | 3.6 | Social dimensions |  |
-| 23 | 3.7 | Oral briefing; Project work | Reflection paper #2 due |
-| 9 | 24 | 4.2 | Practicum on writing for the public | Progress report #7 due |
-| 25 | 3.8 | Project work | Formal review of design notebooks |
-| 26 | 3.9 | Oral briefing; Project work |  |
-| 10 | 27 | 3.10 | Project work | Progress report #8 due |
-| 28 | 3.11 | Oral briefing; Project work | Reflection paper #3 due |
-| 11 | 29 | 3.12 | Project work | Progress report #9 due |
-| 30 | 3.13 | Project work |  |
-| 31 | 3.14 | Oral briefing; Project work |  |
-| 12 | 32 | 3.15 | Project work |  |
-| 33 | 3.16 | LAST project work day |  |
-| 34 | 4.3 | Presentation "dry-run" | Draft of final report due |
-| 13 | 35 | 4.4 | Refine presentations |  |
-| 36 | 4.5 | Presentation dress rehearsal |  |
-| 37 | 4.6 | Public presentations |  |
-| 14 | 38 | 4.7 | Teams finalize reports |  |
-| 39 | 4.8 | Evaluation and wrap-up |  {{< br >}}{{< br >}} Final report due {{< br >}}{{< br >}}
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+UNIT
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+1.1
+{{< tdclose >}}
+{{< tdopen >}}
+Introductions/energy basics
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+1.2
+{{< tdclose >}}
+{{< tdopen >}}
+Energy basics (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+1.3
+{{< tdclose >}}
+{{< tdopen >}}
+Energy basics (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Personal energy calculator due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+1.4
+{{< tdclose >}}
+{{< tdopen >}}
+Energy basics (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+3.1
+{{< tdclose >}}
+{{< tdopen >}}
+Project work
+{{< tdclose >}}
+{{< tdopen >}}
+Draft of team code of conduct due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+1.5
+{{< tdclose >}}
+{{< tdopen >}}
+Climate
+{{< tdclose >}}
+{{< tdopen >}}
+Progress report #1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+1.6
+{{< tdclose >}}
+{{< tdopen >}}
+Energy economics
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+3.2
+{{< tdclose >}}
+{{< tdopen >}}
+Project work
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Revised team code of conduct due
+
+Rough outline of team project proposal and management plan due
+
+Thermodynamics practice problems due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+1.7
+{{< tdclose >}}
+{{< tdopen >}}
+Project work
+{{< tdclose >}}
+{{< tdopen >}}
+Progress report #2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+2.1
+{{< tdclose >}}
+{{< tdopen >}}
+Alternative/renewable energy
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+2.2
+{{< tdclose >}}
+{{< tdopen >}}
+Building energy
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+2.3
+{{< tdclose >}}
+{{< tdopen >}}
+Mobility
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Progress report #3 due
+
+Draft of team project proposal and management plan due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+2.4
+{{< tdclose >}}
+{{< tdopen >}}
+Energy conversion
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+2.5
+{{< tdclose >}}
+{{< tdopen >}}
+Energy storage/distribution
+{{< tdclose >}}
+{{< tdopen >}}
+Reflection paper #1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+2.6
+{{< tdclose >}}
+{{< tdopen >}}
+A systems perspective
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Progress report #4 due
+
+Final team project proposal and management plan due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+4.1
+{{< tdclose >}}
+{{< tdopen >}}
+Practicum on public speaking
+{{< tdclose >}}
+{{< tdopen >}}
+Informal TA check-in on design notebooks
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+2.7
+{{< tdclose >}}
+{{< tdopen >}}
+Local energy systems - MIT
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+2.8
+{{< tdclose >}}
+{{< tdopen >}}
+Local energy systems - Cambridge
+{{< tdclose >}}
+{{< tdopen >}}
+Progress report #5 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+3.3
+{{< tdclose >}}
+{{< tdopen >}}
+Project work
+{{< tdclose >}}
+{{< tdopen >}}
+Informal TA check-in on design notebooks
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+3.4
+{{< tdclose >}}
+{{< tdopen >}}
+Project work
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+3.5
+{{< tdclose >}}
+{{< tdopen >}}
+Project work
+{{< tdclose >}}
+{{< tdopen >}}
+Progress report #6 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+3.6
+{{< tdclose >}}
+{{< tdopen >}}
+Social dimensions
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+3.7
+{{< tdclose >}}
+{{< tdopen >}}
+Oral briefing; Project work
+{{< tdclose >}}
+{{< tdopen >}}
+Reflection paper #2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+4.2
+{{< tdclose >}}
+{{< tdopen >}}
+Practicum on writing for the public
+{{< tdclose >}}
+{{< tdopen >}}
+Progress report #7 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+3.8
+{{< tdclose >}}
+{{< tdopen >}}
+Project work
+{{< tdclose >}}
+{{< tdopen >}}
+Formal review of design notebooks
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+3.9
+{{< tdclose >}}
+{{< tdopen >}}
+Oral briefing; Project work
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+27
+{{< tdclose >}}
+{{< tdopen >}}
+3.10
+{{< tdclose >}}
+{{< tdopen >}}
+Project work
+{{< tdclose >}}
+{{< tdopen >}}
+Progress report #8 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+28
+{{< tdclose >}}
+{{< tdopen >}}
+3.11
+{{< tdclose >}}
+{{< tdopen >}}
+Oral briefing; Project work
+{{< tdclose >}}
+{{< tdopen >}}
+Reflection paper #3 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+29
+{{< tdclose >}}
+{{< tdopen >}}
+3.12
+{{< tdclose >}}
+{{< tdopen >}}
+Project work
+{{< tdclose >}}
+{{< tdopen >}}
+Progress report #9 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+30
+{{< tdclose >}}
+{{< tdopen >}}
+3.13
+{{< tdclose >}}
+{{< tdopen >}}
+Project work
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+31
+{{< tdclose >}}
+{{< tdopen >}}
+3.14
+{{< tdclose >}}
+{{< tdopen >}}
+Oral briefing; Project work
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+32
+{{< tdclose >}}
+{{< tdopen >}}
+3.15
+{{< tdclose >}}
+{{< tdopen >}}
+Project work
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+33
+{{< tdclose >}}
+{{< tdopen >}}
+3.16
+{{< tdclose >}}
+{{< tdopen >}}
+LAST project work day
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+34
+{{< tdclose >}}
+{{< tdopen >}}
+4.3
+{{< tdclose >}}
+{{< tdopen >}}
+Presentation "dry-run"
+{{< tdclose >}}
+{{< tdopen >}}
+Draft of final report due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+35
+{{< tdclose >}}
+{{< tdopen >}}
+4.4
+{{< tdclose >}}
+{{< tdopen >}}
+Refine presentations
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+36
+{{< tdclose >}}
+{{< tdopen >}}
+4.5
+{{< tdclose >}}
+{{< tdopen >}}
+Presentation dress rehearsal
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+37
+{{< tdclose >}}
+{{< tdopen >}}
+4.6
+{{< tdclose >}}
+{{< tdopen >}}
+Public presentations
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+38
+{{< tdclose >}}
+{{< tdopen >}}
+4.7
+{{< tdclose >}}
+{{< tdopen >}}
+Teams finalize reports
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+39
+{{< tdclose >}}
+{{< tdopen >}}
+4.8
+{{< tdclose >}}
+{{< tdopen >}}
+Evaluation and wrap-up
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Final report due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

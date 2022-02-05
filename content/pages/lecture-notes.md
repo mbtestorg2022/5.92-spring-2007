@@ -15,22 +15,377 @@ Project work (Unit 3) was completed throughout the term.
 
 A selection of lecture notes are available below. Many of the lectures were given by guest speakers. Lectures were given during the following sessions. All other sessions were devoted to project work and presentations.
 
-| WEEK # | SES # | UNITS | TOPICS | LECTURE NOTES | LECTURER |
-| --- | --- | --- | --- | --- | --- |
-| 1 | 1 | 1.1 | Introductions/energy basics |  {{< br >}}{{< br >}} Session 1.1 handout ([PDF]({{< baseurl >}}/resources/session_1_1)) {{< br >}}{{< br >}} General energy picture ([PDF]({{< baseurl >}}/resources/ees_gen_enrg_pic)) {{< br >}}{{< br >}}  | Prof. Jeffery Steinfeld |
-| 2 | 1.2 | Energy basics (cont.) |  {{< br >}}{{< br >}} Session 1.2 handout ([PDF]({{< baseurl >}}/resources/session_1_2)) {{< br >}}{{< br >}} Energy calculator guidance ([PDF]({{< baseurl >}}/resources/energy_calc_guid)) {{< br >}}{{< br >}} Personal energy calculator ([PDF]({{< baseurl >}}/resources/energy_calc)) {{< br >}}{{< br >}}  | Prof. Jeffery Steinfeld |
-| 2 | 3 | 1.3 | Energy basics (cont.) | &nbsp; |
-| 4 | 1.4 | Energy basics (cont.) | Thermodynamics handout ([PDF]({{< baseurl >}}/resources/session_1_4)) | Prof. Jeffery Steinfeld |
-| 3 | 6 | 1.5 | Climate | Session 1.5 handout ([PDF]({{< baseurl >}}/resources/session_1_5)) | &nbsp; |
-| 7 | 1.6 | Energy economics | Engineering economics | Prof. Randall Kirchain |
-| 4 | 10 | 2.1 | Alternative/renewable energy | &nbsp; |
-| 11 | 2.2 | Building energy | Energy efficient buildings | Prof. Leon Glicksman |
-| 5 | 12 | 2.3 | Mobility | Energy consumption | Prof. John Heywood |
-| 13 | 2.4 | Energy conversion | Energy conversion | Prof. Ahmed Ghoniem |
-| 14 | 2.5 | Energy storage/distribution | Electrochemical pathways towards sustainability | Prof. Donald Sadoway |
-| 6 | 15 | 2.6 | A systems perspective | &nbsp; |
-| 16 | 4.1 | Practicum on public speaking | Public speaking presentation ([PDF]({{< baseurl >}}/resources/prac_on_pub_spea)) | &nbsp; |
-| 17 | 2.7 | Local energy systems - MIT | MIT campus energy systems | Peter Cooper and Steven Lanou |
-| 7 | 18 | 2.8 | Local energy systems - Cambridge | Energy in Cambridge | John Bolduc |
-| 8 | 22 | 3.6 | Social dimensions | Social aspects of energy systems | Kate Steel |
-| 9 | 24 | 4.2 | Practicum on writing for the public | &nbsp; | Dr. Amanda Graham
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+UNITS
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+LECTURE NOTES
+{{< thclose >}}
+{{< thopen >}}
+LECTURER
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+1.1
+{{< tdclose >}}
+{{< tdopen >}}
+Introductions/energy basics
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Session 1.1 handout ([PDF]({{< baseurl >}}/resources/session_1_1))
+
+General energy picture ([PDF]({{< baseurl >}}/resources/ees_gen_enrg_pic))
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Prof. Jeffery Steinfeld
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+1.2
+{{< tdclose >}}
+{{< tdopen >}}
+Energy basics (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Session 1.2 handout ([PDF]({{< baseurl >}}/resources/session_1_2))
+
+Energy calculator guidance ([PDF]({{< baseurl >}}/resources/energy_calc_guid))
+
+Personal energy calculator ([PDF]({{< baseurl >}}/resources/energy_calc))
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Prof. Jeffery Steinfeld
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+1.3
+{{< tdclose >}}
+{{< tdopen >}}
+Energy basics (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+1.4
+{{< tdclose >}}
+{{< tdopen >}}
+Energy basics (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Thermodynamics handout ([PDF]({{< baseurl >}}/resources/session_1_4))
+{{< tdclose >}}
+{{< tdopen >}}
+Prof. Jeffery Steinfeld
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+1.5
+{{< tdclose >}}
+{{< tdopen >}}
+Climate
+{{< tdclose >}}
+{{< tdopen >}}
+Session 1.5 handout ([PDF]({{< baseurl >}}/resources/session_1_5))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+1.6
+{{< tdclose >}}
+{{< tdopen >}}
+Energy economics
+{{< tdclose >}}
+{{< tdopen >}}
+Engineering economics
+{{< tdclose >}}
+{{< tdopen >}}
+Prof. Randall Kirchain
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+2.1
+{{< tdclose >}}
+{{< tdopen >}}
+Alternative/renewable energy
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+2.2
+{{< tdclose >}}
+{{< tdopen >}}
+Building energy
+{{< tdclose >}}
+{{< tdopen >}}
+Energy efficient buildings
+{{< tdclose >}}
+{{< tdopen >}}
+Prof. Leon Glicksman
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+2.3
+{{< tdclose >}}
+{{< tdopen >}}
+Mobility
+{{< tdclose >}}
+{{< tdopen >}}
+Energy consumption
+{{< tdclose >}}
+{{< tdopen >}}
+Prof. John Heywood
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+2.4
+{{< tdclose >}}
+{{< tdopen >}}
+Energy conversion
+{{< tdclose >}}
+{{< tdopen >}}
+Energy conversion
+{{< tdclose >}}
+{{< tdopen >}}
+Prof. Ahmed Ghoniem
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+2.5
+{{< tdclose >}}
+{{< tdopen >}}
+Energy storage/distribution
+{{< tdclose >}}
+{{< tdopen >}}
+Electrochemical pathways towards sustainability
+{{< tdclose >}}
+{{< tdopen >}}
+Prof. Donald Sadoway
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+2.6
+{{< tdclose >}}
+{{< tdopen >}}
+A systems perspective
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+4.1
+{{< tdclose >}}
+{{< tdopen >}}
+Practicum on public speaking
+{{< tdclose >}}
+{{< tdopen >}}
+Public speaking presentation ([PDF]({{< baseurl >}}/resources/prac_on_pub_spea))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+2.7
+{{< tdclose >}}
+{{< tdopen >}}
+Local energy systems - MIT
+{{< tdclose >}}
+{{< tdopen >}}
+MIT campus energy systems
+{{< tdclose >}}
+{{< tdopen >}}
+Peter Cooper and Steven Lanou
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+2.8
+{{< tdclose >}}
+{{< tdopen >}}
+Local energy systems - Cambridge
+{{< tdclose >}}
+{{< tdopen >}}
+Energy in Cambridge
+{{< tdclose >}}
+{{< tdopen >}}
+John Bolduc
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+3.6
+{{< tdclose >}}
+{{< tdopen >}}
+Social dimensions
+{{< tdclose >}}
+{{< tdopen >}}
+Social aspects of energy systems
+{{< tdclose >}}
+{{< tdopen >}}
+Kate Steel
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+4.2
+{{< tdclose >}}
+{{< tdopen >}}
+Practicum on writing for the public
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Dr. Amanda Graham
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
