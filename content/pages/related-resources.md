@@ -32,7 +32,7 @@ Class Links
 
 [Solar Savings Estimator](http://www.recsolar.com/solar-savings-estimator)
 
-Initial Report of the Energy Research Council (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.4 MB](http://web.mit.edu/mitei/about/erc-report-final.pdf))
+Initial Report of the Energy Research Council ([PDF - 2.4 MB](http://web.mit.edu/mitei/about/erc-report-final.pdf))
 
 [Energy Information Administration](http://www.eia.doe.gov/)
 
