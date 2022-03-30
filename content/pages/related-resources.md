@@ -21,7 +21,7 @@ MIT Energy Initiative (MITEI) [Education Activities](http://web.mit.edu/mitei/ed
 
 [United Nations Intergovermnental Panel on Climate Change](http://www.ipcc.ch/)
 
-[22.081J / 2.650J / 10.291J / 1.818J / 2.65J / 10.391J / 11.371J / 22.811J / ESD.166J](/courses/22-081j-introduction-to-sustainable-energy-fall-2010/) Introduction to Sustainable Energy
+[22.081J / 2.650J / 10.291J / 1.818J / 2.65J / 10.391J / 11.371J / 22.811J / ESD.166J](/courses/22-081j-introduction-to-sustainable-energy-fall-2010) Introduction to Sustainable Energy
 
 Class Links
 -----------
